@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>Arw0303.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\Arw0303.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>112</ymin>
+			<xmax>605</xmax>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+</annotation>

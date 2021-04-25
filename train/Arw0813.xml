@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>Arw0813.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\Arw0813.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Delaware flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>27</ymin>
+			<xmax>366</xmax>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+</annotation>

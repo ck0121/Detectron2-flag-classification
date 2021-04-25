@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labals</folder>
+	<filename>rainy_0575.png</filename>
+	<path>D:\Blander Flag\TEST\Labals\rainy_0575.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>126</ymin>
+			<xmax>327</xmax>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Delaware flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>162</ymin>
+			<xmax>574</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

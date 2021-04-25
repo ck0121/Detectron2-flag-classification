@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labals</folder>
+	<filename>02861.png</filename>
+	<path>D:\Blander Flag\TEST\Labals\0286.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>228</ymin>
+			<xmax>361</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Delaware flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>250</ymin>
+			<xmax>571</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

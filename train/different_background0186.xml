@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>different_background0186.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\different_background0186.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>101</ymin>
+			<xmax>245</xmax>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

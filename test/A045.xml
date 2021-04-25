@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹 (2)</folder>
+	<filename>A045.jpg</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹 (2)\A045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>643</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>102</ymin>
+			<xmax>541</xmax>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+</annotation>

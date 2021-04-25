@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>C010.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\C010.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>288</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canada flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>185</xmin>
+			<ymin>39</ymin>
+			<xmax>300</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Labals</folder>
+	<filename>Sunny0001.jpg</filename>
+	<path>D:\Blander Flag\TEST\Labals\Sunny0001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>220</ymin>
+			<xmax>435</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Delaware flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymin>391</ymin>
+			<xmax>889</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

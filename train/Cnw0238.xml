@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>Cnw0238.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\Cnw0238.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canada flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>86</ymin>
+			<xmax>205</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

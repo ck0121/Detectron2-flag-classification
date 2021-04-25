@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>parking0134.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\parking0134.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Delaware flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>94</ymin>
+			<xmax>222</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

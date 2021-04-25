@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>night0126.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\night0126.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>98</ymin>
+			<xmax>240</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

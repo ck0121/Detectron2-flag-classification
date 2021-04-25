@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>city20188.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\city20188.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>America flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>150</xmin>
+			<ymin>88</ymin>
+			<xmax>248</xmax>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

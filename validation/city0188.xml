@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>city0188.png</filename>
+	<path>C:\Users\12033\Desktop\Detectron2-Apr24\新建文件夹\city0188.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Canada flag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>112</ymin>
+			<xmax>201</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>
